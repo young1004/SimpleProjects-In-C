@@ -1,0 +1,244 @@
+Costa Rica	San Jos?
+Tristan da Cunha	Edinburgh of the Seven Seas
+Saint Pierre and Miquelon	St. Pierre
+Laos	Vientiane
+Republic of the Congo	Brazzaville
+Ireland	Dublin
+Tunisia	Tunis
+Singapore	Singapore
+Australia	Canberra
+Hungary	Budapest
+India	New Delhi
+Mauritania	Nouakchott
+Antigua and Barbuda	St. John's
+Nigeria	Abuja
+Montserrat	Plymouth
+Saint Kitts and Nevis	Basseterre
+Andorra	Andorra la Vella
+Monaco	Monaco
+Spain	Madrid
+Burundi	Bujumbura
+Saint Lucia	Castries
+Chad	N'Djamena
+Bulgaria	Sofia
+Saudi Arabia	Riyadh
+Mauritius	Port Louis
+Democratic Republic of the Congo	Kinshasa
+New Caledonia	Noum?a
+Chile	Santiago
+United States Virgin Islands	Charlotte Amalie
+Haiti	Port-au-Prince
+Samoa	Apia
+Azerbaijan	Baku
+Gabon	Libreville
+Cocos (Keeling) Islands	West Island
+Austria	Vienna
+Finland	Helsinki
+British Virgin Islands	Road Town
+Norfolk Island	Kingston
+Guatemala	Guatemala City
+Solomon Islands	Honiara
+Federated States of Micronesia	Palikir
+Mongolia	Ulan Bator
+Netherlands	Amsterdam
+Syria	Damascus
+French Polynesia	Papeete
+Trinidad and Tobago	Port of Spain
+Burma	Naypyidaw
+Oman	Muscat
+Faroe Islands	T?rshavn
+Denmark	Copenhagen
+Togo	Lom?
+Brazil	Bras?lia
+Malawi	Lilongwe
+New Zealand	Wellington
+Sri Lanka	Sri Jayawardenepura Kotte
+China	Beijing
+Turkmenistan	Ashgabat
+Yemen	Sana'a
+Lesotho	Maseru
+Cape Verde	Praia
+Sierra Leone	Freetown
+Canada	Ottawa
+Guyana	Georgetown
+Taiwan	Taipei
+Nagorno-Karabakh Republic	Stepanakert
+Latvia	Riga
+Bhutan	Thimphu
+Bahrain	Manama
+Vietnam	Hanoi
+Niue	Alofi
+Sudan	Khartoum
+Saint Martin	Marigot
+Turks and Caicos Islands	Cockburn Town
+Slovakia	Bratislava
+Iraq	Baghdad
+Mozambique	Maputo
+Sahrawi Arab Democratic Republic?	El Aai?n
+France	Paris
+Guam	Hag?t?a
+United States	Washington, D.C.
+Afghanistan	Kabul
+Saint Barth?lemy	Gustavia
+Fiji	Suva
+Saint Helena	Jamestown
+Vatican City	Vatican City
+Dominica	Roseau
+Tonga	Nuku?alofa
+Guinea-Bissau	Bissau
+Germany	Berlin
+Montenegro	Podgorica
+Cook Islands	Avarua
+Greenland	Nuuk
+Namibia	Windhoek
+Indonesia	Jakarta
+Swaziland	Mbabane
+Georgia	Tbilisi
+American Samoa	Pago Pago
+Croatia	Zagreb
+Bolivia	Sucre
+Iceland	Reykjav?k
+Puerto Rico	San Juan
+Malaysia	Kuala Lumpur
+Madagascar	Antananarivo
+Ukraine	Kiev
+East Timor (Timor-Leste)	Dili
+Argentina	Buenos Aires
+Lithuania	Vilnius
+Guernsey	St. Peter Port
+Senegal	Dakar
+Zambia	Lusaka
+Tanzania	Dodoma
+Brunei	Bandar Seri Begawan
+Guinea	Conakry
+Aruba	Oranjestad
+Djibouti	Djibouti
+Czech Republic	Prague
+Kosovo	Pristina
+South Georgia and the South Sandwich Islands	Grytviken
+Thailand	Bangkok
+Marshall Islands	Majuro
+Jamaica	Kingston
+Jersey	St. Helier
+Eritrea	Asmara
+Belarus	Minsk
+Akrotiri and Dhekelia	Episkopi Cantonment
+Niger	Niamey
+Sweden	Stockholm
+Poland	Warsaw
+Central African Republic	Bangui
+Mexico	Mexico City
+Bermuda	Hamilton
+Ascension Island	Georgetown
+Rwanda	Kigali
+Wallis and Futuna	Mata-Utu
+Abkhazia	Sukhumi
+Barbados	Bridgetown
+Paraguay	Asunci?n
+Northern Mariana Islands	Saipan
+Colombia	Bogot?
+Uruguay	Montevideo
+Kenya	Nairobi
+Zimbabwe	Harare
+South Sudan	Juba
+Morocco	Rabat
+Saint Vincent and the Grenadines	Kingstown
+Tuvalu	Funafuti
+French Guiana	Cayenne
+Benin	Porto-Novo
+Palau	Melekeok
+Northern Cyprus	Nicosia
+San Marino	San Marino
+Slovenia	Ljubljana
+Gibraltar	Gibraltar
+Ghana	Accra
+Kazakhstan	Astana
+Uzbekistan	Tashkent
+South Korea	Seoul
+Mali	Bamako
+Equatorial Guinea	Malabo
+Botswana	Gaborone
+Cuba	Havana
+South Africa	Pretoria
+Somalia	Mogadishu
+Iran	Tehran
+Tajikistan	Dushanbe
+Belgium	Brussels
+El Salvador	San Salvador
+Turkey	Ankara
+Easter Island	Hanga Roa
+Sint Maarten	Philipsburg
+Comoros	Moroni
+Kiribati	Tarawa
+Cura?ao	Willemstad
+Bahamas	Nassau
+Lebanon	Beirut
+Russia	Moscow
+Transnistria	Tiraspol
+Albania	Tirana
+Japan	Tokyo
+S?o Tom? and Pr?ncipe	S?o Tom?
+Philippines	Manila
+Belize	Belmopan
+Anguilla	The Valley
+Panama	Panama City
+Estonia	Tallinn
+Gambia	Banjul
+Qatar	Doha
+Uganda	Kampala
+Venezuela	Caracas
+Egypt	Cairo
+Dominican Republic	Santo Domingo
+Moldova	Chisinau
+Angola	Luanda
+Grenada	St. George's
+Jordan	Amman
+Nicaragua	Managua
+Liechtenstein	Vaduz
+Maldives	Mal?
+Liberia	Monrovia
+Serbia	Belgrade
+Armenia	Yerevan
+Romania	Bucharest
+Isle of Man	Douglas
+Libya	Tripoli
+Israel	Jerusalem
+United Arab Emirates	Abu Dhabi
+Honduras	Tegucigalpa
+Nauru	Yaren (de facto)
+Vanuatu	Port Vila
+Kuwait	Kuwait City
+Malta	Valletta
+Suriname	Paramaribo
+Norway	Oslo
+Bosnia and Herzegovina	Sarajevo
+Portugal	Lisbon
+Nepal	Kathmandu
+Cambodia	Phnom Penh
+State of Palestine	Jerusalem
+Switzerland	Bern
+Cyprus	Nicosia
+Seychelles	Victoria
+Ivory Coast	Yamoussoukro
+Macedonia	Skopje
+Somaliland	Hargeisa
+Falkland Islands	Stanley
+Pakistan	Islamabad
+Papua New Guinea	Port Moresby
+Burkina Faso	Ouagadougou
+Cayman Islands	George Town
+Bangladesh	Dhaka
+Algeria	Algiers
+United Kingdom	London
+Ethiopia	Addis Ababa
+Ecuador	Quito
+North Korea	Pyongyang
+Christmas Island	Flying Fish Cove
+Pitcairn Islands	Adamstown
+Greece	Athens
+Italy	Rome
+Luxembourg	Luxembourg
+South Ossetia	Tskhinvali
+Peru	Lima
+Kyrgyzstan	Bishkek
+Cameroon	Yaound?
