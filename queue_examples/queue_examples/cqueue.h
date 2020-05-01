@@ -2,9 +2,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAX_QUEUE_SIZE 3
+#define MAX_QUEUE_SIZE 600
 
-typedef int element;
+typedef struct {
+	int id;
+	int arrival_time;
+	int service_time;
+} element;
+
 
 typedef struct {
 	element data[MAX_QUEUE_SIZE];

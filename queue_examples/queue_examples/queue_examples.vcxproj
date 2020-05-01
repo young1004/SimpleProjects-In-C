@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bank.c" />
     <ClCompile Include="queue_fibonacci.c" />
   </ItemGroup>
   <ItemGroup>

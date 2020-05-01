@@ -18,6 +18,9 @@
     <ClCompile Include="queue_fibonacci.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="bank.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cqueue.h">
