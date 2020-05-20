@@ -4,12 +4,13 @@
 
 #define MAX_QUEUE_SIZE 600
 
-typedef struct {
-	int id;
-	int arrival_time;
-	int service_time;
-} element;
+//typedef struct {
+//	int id;
+//	int arrival_time;
+//	int service_time;
+//} element;
 
+typedef int element;
 
 typedef struct {
 	element data[MAX_QUEUE_SIZE];
